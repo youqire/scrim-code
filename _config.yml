@@ -2,10 +2,10 @@ remote_theme: SteveZMTstudios/jekyll-mdui-theme
 plugins:
   - jekyll-remote-theme
 
-title: Your Site Title
-description: Your site description
+title: TEAM NS 
+description: 训练赛代码
 
 show_downloads: true
 theme_color: "#0b57d0"
 url: "https://youqire.github.io"
-baseurl: "scirm-code" # 用户主页仓库留空；项目仓库填 "/<repo>"
+baseurl: "scrim-code" # 用户主页仓库留空；项目仓库填 "/<repo>"
