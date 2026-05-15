@@ -1,8 +1,80 @@
 ---
 title: TEAM NS
-encrypted: true
-crypto_salt: "ajSGLfg7dcRxZGN6YM/cxQ=="
-crypto_iv: "QT+9FsWGeVesITW4"
-crypto_tag: "PqIYtez3XF7TpbHtMTHLKg=="
-ciphertext: "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"
+encrypt: "{[#[+<@}RZ.fsX#E"
 ---
+
+# 历史
+
+## 2026-05-05 21:00-23:00 日服(GM2)  
+![2026-05-05 21:00-23:00 日服(GM2)](assets/img/5-5.png)  
+![选手名单](assets/img/5-5player.png)  
+
+绿洲城 YSZ6HS <span style="color:green">胜利</span> **2-1**  
+苏拉瓦萨 1V4AYN <span style="color:green">胜利</span> **11-2**  
+漓江塔 KPS3EO <span style="color:red">战败</span> **1-2**  
+埃斯佩兰萨 Y168TD <span style="color:red">战败</span> **0-1**  
+鲁纳塞彼 ZVTJ13 <span style="color:red">战败</span> **0-1**  
+
+## 2026-05-06 21:00-23:00 韩服(M1)  
+![2026-05-06 21:00-23:00 韩服(M1)](assets/img/5-6.png)  
+![选手名单](assets/img/5-6player.png) 
+
+鲁纳塞彼 NG824G <span style="color:red">战败</span> **0-1**  
+哈瓦那 DYCF08 <span style="color:red">战败</span> **0-3**  
+国王大道 ZBE50S <span style="color:red">战败</span> **2-3**  
+监测站: 直布罗陀 BF9MAS <span style="color:red">战败</span> **2-3**  
+漓江塔 ZWPW61 <span style="color:red">战败</span> **0-3**  
+
+
+## 2026-05-15  战绩  
+![2026-05-15 战绩](assets/img/5-15.png)  
+苏拉瓦萨 R48EE3 <span style="color:red">战败</span> **2-11**  
+埃斯佩兰萨 JQ0J41 <span style="color:red">战败</span> **0-1**  
+努巴尼 W7TEK2 <span style="color:green">胜利</span> **3-1**  
+哈瓦那 DWYG20 <span style="color:gray">平局</span> **3-3**  
+漓江塔 1M5RPX <span style="color:red">战败</span> **1-2**  
+绿洲城 98XRM1 <span style="color:green">胜利</span> **2-1**  
+## 2026-05-07 21:00-23:00 韩服(M2)  
+![2026-05-07 21:00-23:00 韩服(M2)](assets/img/5-7.png)  
+![选手名单](assets/img/5-7player.png) 
+
+鲁纳塞彼 F75CJM <span style="color:red">战败</span> **0-1**  
+哈瓦那 BP475K <span style="color:red">战败</span> **2-3**  
+鲁纳塞彼 TD9QK4 <span style="color:green">胜利</span> **1-0**  
+苏拉瓦萨 RZ5AFG <span style="color:green">胜利</span> **11-1**  
+鲁纳塞彼 D9YPRX <span style="color:green">胜利</span> **1-0**  
+绿洲城 EDCYP6 <span style="color:red">战败</span> **1-2**  
+
+## 2026-05-08 21:00-23:00 国服(GM5)
+![2026-05-08 21:00-23:00 GM5](assets/img/5-8.png) 
+![选手名单](assets/img/5-8player.png)  
+
+绿洲城 GYDWG8 <span style="color:red">战败</span> **1-2**  
+苏拉瓦萨 3K7R03 <span style="color:red">战败</span> **2-3**  
+埃斯佩兰萨 H9KT3Y <span style="color:red">战败</span> **0-1**  
+漓江塔 KCB0J7 <span style="color:green">胜利</span> **3-0**  
+哈瓦那 ZZ6YVT <span style="color:green">胜利</span> **3-2**  
+哈瓦那(进攻) K7WPZK <span style="color:gray">平局</span> **2-0**
+
+## 2026-05-13 21:00-24:00 国服(GM5)  
+![2026-05-13 21:00-24:00 GM5](assets/img/5-13.png)  
+![选手名单](assets/img/5-13player.png)  
+
+釜山 C7M7X2 <span style="color:red">战败</span> **1-2**  
+阿特丽斯 NQFP6P <span style="color:gray">平局</span> **无比分**  
+埃斯佩兰萨 CYSM6G <span style="color:green">胜利</span> **1-0**  
+暴雪世界 4GBQ9F <span style="color:gray">平局</span> **3-3**  
+新皇后街 JSAXH9 <span style="color:red">战败</span> **0-1**  
+漓江塔 YTD9X3 <span style="color:green">胜利</span> **2-1**
+  
+## 2026-05-15 21:00-24:00 韩服(GM5)  
+![2026-05-15 22:00-24:00](assets/img/5-15.png) 
+![选手名单](assets/img/5-15player.png)  
+
+苏拉瓦萨 R48EE3 <span style="color:red">战败</span> **2-11**  
+埃斯佩兰萨 JQ0J41 <span style="color:red">战败</span> **0-1**  
+努巴尼 W7TEK2 <span style="color:green">胜利</span> **3-1**  
+哈瓦那 DWYG20 <span style="color:gray">平局</span> **3-3**  
+漓江塔 1M5RPX <span style="color:red">战败</span> **1-2**  
+绿洲城 98XRM1 <span style="color:green">胜利</span> **2-1**
+
