@@ -25,15 +25,6 @@ encrypt: "{[#[+<@}RZ.fsX#E"
 监测站: 直布罗陀 BF9MAS <span style="color:red">战败</span> **2-3**  
 漓江塔 ZWPW61 <span style="color:red">战败</span> **0-3**  
 
-
-## 2026-05-15  战绩  
-![2026-05-15 战绩](assets/img/5-15.png)  
-苏拉瓦萨 R48EE3 <span style="color:red">战败</span> **2-11**  
-埃斯佩兰萨 JQ0J41 <span style="color:red">战败</span> **0-1**  
-努巴尼 W7TEK2 <span style="color:green">胜利</span> **3-1**  
-哈瓦那 DWYG20 <span style="color:gray">平局</span> **3-3**  
-漓江塔 1M5RPX <span style="color:red">战败</span> **1-2**  
-绿洲城 98XRM1 <span style="color:green">胜利</span> **2-1**  
 ## 2026-05-07 21:00-23:00 韩服(M2)  
 ![2026-05-07 21:00-23:00 韩服(M2)](assets/img/5-7.png)  
 ![选手名单](assets/img/5-7player.png) 
@@ -67,7 +58,7 @@ encrypt: "{[#[+<@}RZ.fsX#E"
 新皇后街 JSAXH9 <span style="color:red">战败</span> **0-1**  
 漓江塔 YTD9X3 <span style="color:green">胜利</span> **2-1**
   
-## 2026-05-15 21:00-24:00 韩服(GM5)  
+## 2026-05-15 22:00-24:00 韩服(GM5)  
 ![2026-05-15 22:00-24:00](assets/img/5-15.png) 
 ![选手名单](assets/img/5-15player.png)  
 
